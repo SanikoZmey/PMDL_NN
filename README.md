@@ -1,7 +1,7 @@
 # This repo is created to train models for a dataset of images that can be generated with the use of [PMDL_SphereDrawer](https://github.com/SanikoZmey/PMDL_SphereDrawer)
 ### After the generating the images it is needed to label them(for now by hand) in the following format: 
-                        "[class_number][class_name][in_class_image_number].png"
-### `Table with class numbers and class names is following:`
+`"[class_number][class_name][in_class_image_number].png"`
+### Table with class numbers and class names is following:
 
 <table>
 <tr><td>
@@ -49,7 +49,7 @@
 </table>
 
 ### Class names are in the form:
-    [r/l][t/u/f][ro/rs/s/a] or [c/cc][t] where:
+`[r/l][t/u/f][ro/rs/s/a] or [c/cc][t]` where:
 
 1. r/l - right/left direction of the gesture
 2. t/u/f - target/up/floor direction of the gesture
