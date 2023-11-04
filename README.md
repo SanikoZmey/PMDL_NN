@@ -59,4 +59,4 @@
 ### In this repo a small dataset is provided by the creator for a demonstration purposes.
 ### For a prediction of the gesture class the user have to place an image of the gesture in `/dataset/show/` directory
 
-### To use this repo the user is needed to have an ability to run jupyter notebooks(a short guide can be found on the main page of [PMLDL_Assignment_1](https://github.com/SanikoZmey/PMLDL_Assignment_1)). All explanations of further usage are provided in the form of comments in NN.ipynb.
+### To use this repo the user is needed to have an ability to run jupyter notebooks(a short guide can be found on the main page of [PMLDL_Assignment_1](https://github.com/SanikoZmey/PMLDL_Assignment_1)). All explanations of further usage are provided in the form of comments in SphereDrawerNN.ipynb.
