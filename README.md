@@ -64,5 +64,6 @@
 ### If it is a case to locally deploy the project then it is recommended to use already configured python script and Streamlit API:
 
 Install streamlit to your python environment via instructions on a [main page](https://streamlit.io/) \
-Then the first option is to clone this repo and run `streamlit run Flux.py` in terminal with activated envirinment with streamlit package installed \
-The second option is to run `streamlit run https://github.com/SanikoZmey/PMDL_NN/blob/main/Flux.py`
+Clone this repo, open it in terminal and activate python environment with Streamlit package installed \
+After that run `streamlit run Flux.py` in terminal \
+Now a browser tab with streamlit page is opened and you can use interface with prepred insrtuctions
