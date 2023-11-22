@@ -60,3 +60,9 @@
 ### For a prediction of the gesture class the user have to place an image of the gesture in `/dataset/show/` directory
 
 ### To use this repo the user is needed to have an ability to run jupyter notebooks(a short guide can be found on the main page of [PMLDL_Assignment_1](https://github.com/SanikoZmey/PMLDL_Assignment_1)). All explanations of further usage are provided in the form of comments in NN.ipynb.
+
+### If it is a case to locally deploy the project then it is recommended to use already configured python script and Streamlit API:
+
+Install streamlit to your python environment via instructions on a [main page](https://streamlit.io/) \
+Then the first option is to clone this repo and run `streamlit run Flux.py` in terminal with activated envirinment with streamlit package installed \
+The second option is to run `streamlit run https://github.com/SanikoZmey/PMDL_NN/blob/main/Flux.py`
