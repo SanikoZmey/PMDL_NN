@@ -1,0 +1,1 @@
+{1: "rtro", 2: "ruro", 3: "rfro", 4: "rtrs", 5: "rurs", 6: "rfrs", 7: "ltro", 8: "luro", 9: "lfro", 10: "ltrs", 11: "lurs", 12: "lfrs", 13: "rts", 14: "rus", 15: "rfs", 16: "lts", 17: "lus", 18: "lfs", 19: "rta", 20: "rua", 21: "rfa", 22: "lta", 23: "lua", 24: "lfa", 25: "ct", 26: "cct"}
