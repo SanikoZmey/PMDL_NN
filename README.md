@@ -63,7 +63,8 @@
 
 ### If it is a case to locally deploy the project then it is recommended to use already configured python script and Streamlit API:
 
-Install streamlit to your python environment via instructions on a [main page](https://streamlit.io/) \
-Clone this repo, open it in terminal and activate python environment with Streamlit package installed \
-After that run `streamlit run Flux.py` in terminal \
-Now a browser tab with streamlit page is opened and you can use interface with prepred insrtuctions
+#### Run at least once SphereDrawerNN.ipynb to create `runs/` directory with model you would like to test(either AlexNet-like or ResNet34). Please note that if you will train only one model then in deployed version you can use this particular model only!
+#### Install streamlit to your python environment via instructions on a [main page](https://streamlit.io/)
+#### Clone this repo, open it in terminal and activate python environment with Streamlit package installed
+#### After that run `streamlit run Flux.py` in terminal
+#### Now a browser tab with streamlit page is opened and you can use interface with prepred insrtuctions
